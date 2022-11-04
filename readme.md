@@ -2,8 +2,6 @@
 
 ![Medusa Hackathon 2022](hackathon-banner.jpg)
 
-## About
-
 ### Participants
 Mursal Furqan - @mursalfk
 
